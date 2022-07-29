@@ -16,15 +16,15 @@ const data = [
     id: 2,
     image: IMG2,
     title: "To Do List",
-    github: "https://github.com/ClaudioIrianni/rgbDeg",
-    demo: "https://claudioirianni.github.io/rgbDeg/",
+    github: "https://github.com/ClaudioIrianni/simpleTodolist",
+    demo: "https://simple2dolist.vercel.app/",
   },
   {
     id: 3,
     image: IMG3,
     title: "RBG Generator",
     github: "https://github.com/ClaudioIrianni/rgbDeg",
-    demo: "https://claudioirianni.github.io/rgbDeg/",
+    demo: "https://rgbgenerator-six.vercel.app/",
   },
 ];
 
